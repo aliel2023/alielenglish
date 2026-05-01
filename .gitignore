@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+.npm
+
+# Build artifacts
+.cache/
+dist/
+
+# Source repo (used for sync only)
+source_repo/
+
+# Local copies
+alielenglish - Copy/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local AI tools
+magic-mcp-main/
+.lean_ai/
+.verdent/
+supabase/
+
+# Local-only design artifacts
+css/
+js/
+
+# Temp files
+*.pyc
+__pycache__/
+_*.py

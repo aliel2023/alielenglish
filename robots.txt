@@ -1,5 +1,5 @@
 # robots.txt — Alielenglish
-# https://aliel2023.github.io/English/
+# https://aliel2023.github.io/alielenglish/
 
 User-agent: *
 Allow: /
@@ -13,4 +13,4 @@ Disallow: /register.html
 Disallow: /premium-order.html
 
 # Sitemap location
-Sitemap: https://aliel2023.github.io/English/sitemap.xml
+Sitemap: https://aliel2023.github.io/alielenglish/sitemap.xml

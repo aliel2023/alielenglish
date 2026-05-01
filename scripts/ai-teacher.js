@@ -142,7 +142,7 @@
             'index.html': 'Ana Səhifə',
             'daily-word.html': 'Günün Sözü',
             'test.html': 'Səviyyə Testi',
-            'speaking.html': 'Danışıq Pratikası',
+            'speaking.html': 'Danışıq Praktikası',
             'resources.html': 'Resurslar',
             'favorites.html': 'Sevimlilər',
             'dashboard.html': 'Dashboard',
@@ -244,7 +244,7 @@
         if (/qiymət|pul|ödəni|premium/.test(ql)) return '💳 Qiymət planları üçün [Qiymətlər](pricing.html) səhifəsinə baxın. Pulsuz plan da mövcuddur!';
         if (/söz|word|lüğət|vocabulary/.test(ql)) return '📚 [Günün Sözü](daily-word.html) bölməmizə baxın! Hər gün yeni söz öyrənin.';
         if (/qrammatika|grammar/.test(ql)) return '📝 Qrammatika sualınızı ətraflı yazın, sizə izah edim! Hansı mövzu ilə maraqlanırsınız?';
-        if (/danışıq|speaking|tələffüz/.test(ql)) return '🎤 [Danışıq Pratikası](speaking.html) bölməmizə daxil olun! AI ilə tələffüzünüzü yoxlayın.';
+        if (/danışıq|speaking|tələffüz/.test(ql)) return '🎤 [Danışıq Praktikası](speaking.html) bölməmizə daxil olun! AI ilə tələffüzünüzü yoxlayın.';
         if (/resurs|material|pdf|kitab/.test(ql)) return '📖 [Resurslar](resources.html) bölməsindən pulsuz materialları yükləyin.';
         if (/əlaqə|contact|problem|kömək|işləmir/.test(ql)) return '📬 Texniki kömək üçün [Əlaqə](contact.html) səhifəmizə müraciət edin.';
         if (/motivasiya|yoruldum|çətin|vaz keç/.test(ql)) return '💪 Narahat olmayın! Hər kəs öyrənmə prosesində çətinliklərlə üzləşir. 70% tələbə bunu hiss edir, amma davam edənlərin 90%-i uğur qazanır! Kiçik addımlarla başlayın — gündə 5 dəqiqə belə fərq yaradır.';
@@ -507,10 +507,10 @@
             const labels = {
                 grammar: 'Qrammatika Testləri',
                 vocabulary: 'Günün Sözü',
-                pronunciation: 'Danışıq Pratikası',
+                pronunciation: 'Danışıq Praktikası',
                 exam: 'Səviyyə Testi',
                 writing: 'Resurslar',
-                speaking: 'Danışıq Pratikası',
+                speaking: 'Danışıq Praktikası',
                 technical: 'Əlaqə',
                 pricing: 'Qiymətlər'
             };

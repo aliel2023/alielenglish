@@ -95,7 +95,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: var(--font-heading, 'Space Grotesk', sans-serif);
+    font-family: var(--font-heading, 'Lora', serif);
     font-size: .875rem;
     font-weight: 700;
     color: #fff;
@@ -109,7 +109,7 @@
 }
 
 .testimonial-name {
-    font-family: var(--font-heading, 'Space Grotesk', sans-serif);
+    font-family: var(--font-heading, 'Lora', serif);
     font-size: .9rem;
     font-weight: 600;
     color: var(--text-primary, #fff);
@@ -144,7 +144,7 @@
     align-items: center;
     justify-content: center;
     transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
-    font-family: var(--font-heading, 'Space Grotesk', sans-serif);
+    font-family: var(--font-heading, 'Lora', serif);
 }
 
 .carousel-btn:hover {
@@ -245,7 +245,7 @@
 }
 
 .ai-practice-header h3 {
-    font-family: var(--font-heading, 'Space Grotesk', sans-serif);
+    font-family: var(--font-heading, 'Lora', serif);
     font-size: 1.2rem;
     font-weight: 600;
     color: var(--text-primary, #fff);
@@ -268,7 +268,7 @@
 }
 
 .ai-practice-word-display .practice-word {
-    font-family: var(--font-heading, 'Space Grotesk', sans-serif);
+    font-family: var(--font-heading, 'Lora', serif);
     font-size: 1.5rem;
     font-weight: 700;
     color: #a855f7;
@@ -321,7 +321,7 @@
 .btn-ai-check {
     background: linear-gradient(135deg, #8b5cf6, #a855f7);
     color: #fff;
-    font-family: var(--font-heading, 'Space Grotesk', sans-serif);
+    font-family: var(--font-heading, 'Lora', serif);
     font-size: .875rem;
     font-weight: 600;
     padding: .75rem 1.5rem;
@@ -373,7 +373,7 @@
     display: flex;
     align-items: center;
     gap: .5rem;
-    font-family: var(--font-heading, 'Space Grotesk', sans-serif);
+    font-family: var(--font-heading, 'Lora', serif);
     font-weight: 600;
     font-size: .95rem;
     color: #a855f7;
@@ -429,7 +429,7 @@
     color: #22c55e;
     padding: .3rem .75rem;
     border-radius: 9999px;
-    font-family: var(--font-heading, 'Space Grotesk', sans-serif);
+    font-family: var(--font-heading, 'Lora', serif);
     font-size: .78rem;
     font-weight: 600;
     margin-top: 1rem;

@@ -4,17 +4,17 @@
 
     <!-- Homepage -->
     <url>
-        <loc>https://aliel2023.github.io/English/</loc>
+        <loc>https://aliel2023.github.io/alielenglish/</loc>
         <lastmod>2026-04-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="az" href="https://aliel2023.github.io/English/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://aliel2023.github.io/English/"/>
+        <xhtml:link rel="alternate" hreflang="az" href="https://aliel2023.github.io/alielenglish/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://aliel2023.github.io/alielenglish/"/>
     </url>
 
     <!-- Günün Sözü (Daily Word) — updated daily -->
     <url>
-        <loc>https://aliel2023.github.io/English/daily-word.html</loc>
+        <loc>https://aliel2023.github.io/alielenglish/daily-word.html</loc>
         <lastmod>2026-04-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
@@ -22,7 +22,7 @@
 
     <!-- Öyrənmə Yolu (Learning Path) -->
     <url>
-        <loc>https://aliel2023.github.io/English/learning-path.html</loc>
+        <loc>https://aliel2023.github.io/alielenglish/learning-path.html</loc>
         <lastmod>2026-04-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
@@ -30,7 +30,7 @@
 
     <!-- Danışıq Pratikası (Speaking Practice) -->
     <url>
-        <loc>https://aliel2023.github.io/English/speaking.html</loc>
+        <loc>https://aliel2023.github.io/alielenglish/speaking.html</loc>
         <lastmod>2026-04-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -38,7 +38,7 @@
 
     <!-- Səviyyə Testi (Level Test) -->
     <url>
-        <loc>https://aliel2023.github.io/English/test.html</loc>
+        <loc>https://aliel2023.github.io/alielenglish/test.html</loc>
         <lastmod>2026-04-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -46,7 +46,7 @@
 
     <!-- Resurslar (Resources) -->
     <url>
-        <loc>https://aliel2023.github.io/English/resources.html</loc>
+        <loc>https://aliel2023.github.io/alielenglish/resources.html</loc>
         <lastmod>2026-04-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -54,7 +54,7 @@
 
     <!-- Qiymətlər (Pricing) -->
     <url>
-        <loc>https://aliel2023.github.io/English/pricing.html</loc>
+        <loc>https://aliel2023.github.io/alielenglish/pricing.html</loc>
         <lastmod>2026-04-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -62,7 +62,7 @@
 
     <!-- Əlaqə (Contact) -->
     <url>
-        <loc>https://aliel2023.github.io/English/contact.html</loc>
+        <loc>https://aliel2023.github.io/alielenglish/contact.html</loc>
         <lastmod>2026-04-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -70,7 +70,7 @@
 
     <!-- Məxfilik Siyasəti (Privacy Policy) -->
     <url>
-        <loc>https://aliel2023.github.io/English/privacy.html</loc>
+        <loc>https://aliel2023.github.io/alielenglish/privacy.html</loc>
         <lastmod>2026-04-20</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.4</priority>

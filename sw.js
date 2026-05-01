@@ -4,7 +4,7 @@
  * Offline: Essential pages and grammar rules cached
  */
 
-const CACHE_NAME = 'alielenglish-v3.0';
+const CACHE_NAME = 'alielenglish-v4.0';
 const BASE = self.location.pathname.replace(/\/sw\.js$/, '/');
 const OFFLINE_URL = BASE + 'index.html';
 
@@ -46,7 +46,7 @@ const PRECACHE_PATHS = [
 
 const PRECACHE_URLS = [
     ...PRECACHE_PATHS.map(p => BASE + p),
-    'https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&subset=latin,latin-ext&display=swap'
+    'https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Sora:wght@300;400;500;600;700&display=swap'
 ];
 
 // ===== INSTALL — precache core assets =====

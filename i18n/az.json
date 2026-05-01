@@ -2,7 +2,7 @@
   "nav": {
     "home": "Ana Səhifə",
     "daily": "Günün Sözü",
-    "speaking": "Danışıq Pratikası",
+    "speaking": "Danışıq Praktikası",
     "test": "Səviyyə Testi",
     "resources": "Resurslar",
     "pricing": "Qiymətlər",
@@ -47,7 +47,7 @@
     "newsletter": "Xəbər Bülləteni",
     "newsletterDesc": "Gündəlik dərs və xüsusi təkliflərdən xəbərdar olun",
     "btnSubscribe": "Abunə Ol",
-    "rights": "© 2025 Alielenglish. Bütün hüquqlar qorunur.",
+    "rights": "© 2026 Alielenglish. Bütün hüquqlar qorunur.",
     "privacy": "Məxfilik Siyasəti"
   },
   "modal": {
@@ -118,7 +118,7 @@
     "btnLoadMore": "Daha Çox Yüklə"
   },
   "speaking": {
-    "title": "🎙️ Danışıq Pratikası",
+    "title": "🎙️ Danışıq Praktikası",
     "subtitle": "Süni intellekt köməyi ilə tələffüzünüzü sıfır xəta və pulsuz olaraq inkişaf etdirin.",
     "instructions": "Aşağıdakı cümləni oxumaq üçün mikrofon düyməsini basın. Alqoritm tələffüzünüzü yoxlayacaq.",
     "btnStart": "Danışmağa Başla",
